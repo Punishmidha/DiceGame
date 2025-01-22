@@ -1,4 +1,8 @@
 # Dice Game 🎲
+![Alt text](/public/images/Output/o1.png)
+![Alt text](/public/images/Output/o2.png)
+
+
 
 A fun and interactive dice game built using React and Vite. In this game, you choose a number between 1 and 6, and roll the dice. If the dice roll matches your selected number, you gain points equal to the dice roll. Otherwise, you lose 1 point.
 
