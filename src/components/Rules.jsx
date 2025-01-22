@@ -9,7 +9,7 @@ const Rules = () => {
         <p>Select any number</p>
         <p>Click on the dice!</p>
         <p>If selected no = dice , you will awarded by dice points</p>
-        <p>For wrong guess , 2 points will be deducted</p>
+        <p>For wrong guess , 1 points will be deducted</p>
       </div>
     </RulesContainer>
   );
