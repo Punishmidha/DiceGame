@@ -1,8 +1,13 @@
-# React + Vite
+# Dice Game 🎲
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive dice game built using React and Vite. In this game, you choose a number between 1 and 6, and roll the dice. If the dice roll matches your selected number, you gain points equal to the dice roll. Otherwise, you lose 1 point.
 
-Currently, two official plugins are available:
+## Features
+- 🎯 Choose a number between 1 and 6.
+- 🎲 Roll the dice to see if you guessed correctly.
+- 🏆 Gain points if your guess is correct, lose 1 point otherwise.
+- 🔄 Simple and responsive UI built with React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- **React**: For building the user interface.
+- **Vite**: For fast development and build tooling.
